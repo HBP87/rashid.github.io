@@ -1,0 +1,40 @@
+.mycontainer {
+  text-align: center;
+  margin: 10px;
+  padding: 250px;
+}
+
+.container0 {
+  text-align: right;
+  font-size: 24px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+
+a {
+  color: #000000DE;
+}
+
+#textField {
+  width: 500px;
+  height: 34px;
+  border-radius: 10px;
+  background-color: transparent;
+  font-size: 16px;
+}
+
+#submitButton {
+  background-color: #f2f2f2;
+  border: 1px;
+  color: #5F6368;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  height: 36px;
+  text-align: center;
+  border-radius: 4px;
+}
+
+img {
+  padding-bottom: 20px;
+}
+/*# sourceMappingURL=index.css.map */
